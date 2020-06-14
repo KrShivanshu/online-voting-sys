@@ -1,5 +1,5 @@
 <?php
-   require_once 'C:\xampp\htdocs\OVS/date.php';
+   require_once '../date.php';
 ?>
 
 <!DOCTYPE HTML>

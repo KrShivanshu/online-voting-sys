@@ -1,8 +1,8 @@
 <?php
    
-   require_once 'C:\xampp\htdocs\OVS\candidate/candElefor.php';
+   require_once 'candElefor.php';
    
-   require_once 'C:\xampp\htdocs\OVS/date.php';
+   require_once '../date.php';
   
    /*
    //$_SESSION['electiontype'] = $level;

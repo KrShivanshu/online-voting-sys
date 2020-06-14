@@ -1,6 +1,6 @@
 <?php
 session_start();
-require 'C:\xampp\htdocs\OVS\candidate\cFornAuth.php';
+require 'cFornAuth.php';
 ?>
 <!DOCTYPE html>
 <html>

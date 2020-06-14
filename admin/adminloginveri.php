@@ -1,6 +1,6 @@
 <?php
 session_start();
-   require('C:\xampp\htdocs\OVS\config/db.php');
+   require('../config/db.php');
    //require('C:\xampp\htdocs\OVS\config/define.php');
    $user = '';
    $pass = '';

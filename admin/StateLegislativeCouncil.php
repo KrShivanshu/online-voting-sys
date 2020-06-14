@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'C:\xampp\htdocs\OVS\admin/upElectionDb.php';
+require_once 'upElectionDb.php';
 ?>
 <!DOCTYPE html>
 <html>

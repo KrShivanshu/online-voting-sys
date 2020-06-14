@@ -1,8 +1,8 @@
 <?php
    session_start();
    require 'confirm.php';
-   require('C:\xampp\htdocs\OVS\config/db.php');
-    require_once('C:\xampp\htdocs\OVS/date.php');
+   require('../config/db.php');
+    require_once('../date.php');
    $user = $_SESSION['user'];
    $level = $_SESSION["level"]; 
    $dis  = $_SESSION['district'];

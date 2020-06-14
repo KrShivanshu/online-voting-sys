@@ -1,5 +1,5 @@
 <?php
-require_once 'C:\xampp\htdocs\OVS\candidate/chkdb4ele.php';
+require_once 'chkdb4ele.php';
 ?>
 
 

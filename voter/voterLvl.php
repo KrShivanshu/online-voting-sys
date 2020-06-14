@@ -2,7 +2,7 @@
    
   session_start(); 
    
-   require_once 'C:\xampp\htdocs\OVS/date.php';
+   require_once '../date.php';
   
 
   if(isset($_POST['v-lvl-btn'])){

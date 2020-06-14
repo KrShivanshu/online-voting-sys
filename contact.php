@@ -1,7 +1,7 @@
  <?php
- require('C:\xampp\htdocs\OVS\config/db.php');
+ require('config/db.php');
    //require('C:\xampp\htdocs\OVS\config/define.php');
-   require_once 'C:\xampp\htdocs\OVS\vendor/autoload.php';
+   require_once 'vendor/autoload.php';
 $msg='';
 $msgClass='';
 if(filter_has_var(INPUT_POST,'submit')){

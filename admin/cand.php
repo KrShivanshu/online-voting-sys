@@ -1,6 +1,6 @@
 <?php
    
-   require('C:\xampp\htdocs\OVS\config/db.php');
+   require('../config/db.php');
    //require_once 'C:\xampp\htdocs\OVS\admin/cstatcnfrm.php';
    //$user = $_SESSION['user'];
    //$district = $_POST["district"]; //at what post(HOD, MAYOR , CM, ....)  

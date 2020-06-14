@@ -1,6 +1,6 @@
 <?php
 
-   require('C:\xampp\htdocs\OVS\config/db.php');
+   require('../config/db.php');
    require('mail.php');
    //require('C:\xampp\htdocs\OVS\config/define.php');
    

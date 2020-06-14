@@ -1,5 +1,5 @@
 <?php
- require_once 'C:\xampp\htdocs\OVS\admin/adminloginveri.php';
+ require_once 'adminloginveri.php';
 ?>
 
 <!DOCTYPE html>

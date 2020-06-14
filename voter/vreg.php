@@ -1,6 +1,6 @@
 <?php 
 session_start();
-require 'C:\xampp\htdocs\OVS\voter\formauth.php';
+require 'formauth.php';
 ?>
 <!DOCTYPE html>
 <html>

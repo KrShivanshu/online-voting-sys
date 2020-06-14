@@ -3,7 +3,7 @@
 
     //session_start();
     //adding vote to the candidate and giving confirmation
-    require('C:\xampp\htdocs\OVS\config/db.php');
+    require('../config/db.php');
    
 if(isset($_POST["vote"])){            
     if(isset($_POST["cand"]))

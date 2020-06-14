@@ -1,7 +1,7 @@
 <?php
    
-    require('C:\xampp\htdocs\OVS\config/db.php');
-    require_once('C:\xampp\htdocs\OVS/date.php');
+    require('config/db.php');
+    require_once('date.php');
 
 
         $eleDetQuery = "SELECT * FROM election_detail ORDER BY Election_Id DESC "

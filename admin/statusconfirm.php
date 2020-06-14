@@ -1,7 +1,7 @@
 <?php
     //adding vote to the candidate and giving confirmation
     session_start();
-    require('C:\xampp\htdocs\OVS\config/db.php');
+    require('../config/db.php');
             
 
 

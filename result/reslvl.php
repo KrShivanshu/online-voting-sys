@@ -1,8 +1,8 @@
 <?php
    
-   require_once 'C:\xampp\htdocs\OVS\result/reslvlshk.php';
+   require_once 'reslvlshk.php';
    
-   require_once 'C:\xampp\htdocs\OVS/date.php';
+   require_once '../date.php';
   
    /*
    //$_SESSION['electiontype'] = $level;

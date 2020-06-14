@@ -1,7 +1,7 @@
 <?php
       
-   require('C:\xampp\htdocs\OVS\config/db.php');
-   require('C:\xampp\htdocs\OVS/date.php');
+   require('../config/db.php');
+   require('../date.php');
       
     $name='';
     $father_name='';

@@ -1,5 +1,5 @@
 <?php
- require_once 'C:\xampp\htdocs\OVS\voter/process.php';
+ require_once 'process.php';
 ?>
 
 <!DOCTYPE html>

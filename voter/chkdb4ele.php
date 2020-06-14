@@ -1,9 +1,9 @@
 <?php 
   session_start();
   //to election details in the database on server
-  require('C:\xampp\htdocs\OVS\config/db.php');
+  require('../config/db.php');
    
-  require_once 'C:\xampp\htdocs\OVS/date.php';
+  require_once '../date.php';
 
    $level='';
    $user = $_SESSION['user'];

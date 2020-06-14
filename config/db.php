@@ -1,7 +1,7 @@
 <?php
 
-   require_once 'C:\xampp\htdocs\OVS\config/define.php';
-   $conn = mysqli_connect(db_host,db_user,db_pass,db_name);
+   require_once 'define.php';
+   $conn = mysqli_connect(db_host,db_user,db_pass,db_name,db_port);
  // $conn = mysqli_connect('localhost','root','123456','ovs');
 
    if(mysqli_connect_errno()){

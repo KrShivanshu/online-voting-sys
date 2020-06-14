@@ -1,0 +1,45 @@
+<html>
+<head>
+<style>
+
+  h1     {color:black;
+		font-family: verdana;
+		font-size: 300%; }
+  h2	{color:black;
+		font-family: verdana;
+		font-size: 200%;}
+  .topnav {
+         background-color:black;
+          overflow:hidden;
+           border-radius: .50em;
+         }
+.topnav a {
+         font-family: sans-serif;
+         float:left;
+         color: white;
+         text-align: center;
+         padding: 20px 50px;
+         text-decoration: none;
+          font-size: 17px;
+         }
+ .topnav a:hover {
+         background-color: lightblue;
+         color: black;
+         border-radius: .50em;
+          }
+          .head img{
+          	float:center;
+          	width:500px;
+          	height:300px;
+          	border: 1500px white;
+          	padding :10px;
+          	margin-top: 10px;
+          	background-color: white;
+          }
+          .head h2
+          {position:relative;
+          	top:18px;
+          	left:10px;}
+ </style>
+</head>
+</html>
